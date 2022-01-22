@@ -2,4 +2,4 @@
 Convert binary to decimal with step
 
 ## Credit 
-- Me
+- Me 😀
