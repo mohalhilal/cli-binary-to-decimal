@@ -1,4 +1,5 @@
-## cli-biner-to-decimal
-Convert biner to decimal with step
+## cli-binary-to-decimal
+Convert binary to decimal with step
 
 ## Credit 
+- Me
