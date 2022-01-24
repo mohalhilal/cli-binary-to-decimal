@@ -10,6 +10,8 @@ $ ls
 $ php bintodes.php
 ```
 
+![Alt text](/ss.png?raw=true "Optional Title")
+
 
 ## Credit 
 - Me 😀
