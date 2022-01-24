@@ -15,4 +15,4 @@ $ php bintodes.php
 
 ## Credit 
 - Me 😀
-![ss](https://user-images.githubusercontent.com/53252937/150808335-d70f5955-ab69-4fda-af37-230bf69b0c4a.png)
+
