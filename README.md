@@ -13,6 +13,5 @@ $ php bintodes.php
 ![Alt text](ss.png "Optional Title")
 
 
-## Credit 
-- Me 😀
-
+## Buy me a coffe ☕
+- https://saweria.co/mohalhilal
