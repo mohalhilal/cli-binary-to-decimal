@@ -12,6 +12,3 @@ $ php bintodes.php
 
 ![Alt text](ss.png "Optional Title")
 
-
-## Donation
-- https://saweria.co/mohalhilal
